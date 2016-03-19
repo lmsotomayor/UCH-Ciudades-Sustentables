@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-c18fc9779d5408b68a226c1fe1466447d27ccab9.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-9e2f01e9ca1bcce766f2677d58667174115d1275.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-fa4250dcb3f041d74c9737dbd005aa8a7fcfc511.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-7adfb572e2bf3019e66dda0b4cdf1700cfc64850.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-e3e995d3fa4887cb729ce2195c3474edf9d7f897.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-71f0ffb684d26a1e1a751eb047793df578b2d17d.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-bd66ffb04f382da6edd775576718040f48ab1cb4.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-5844440dd1f1dd826879ae7549ca5dbc6cab7080.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-eb91a634aa006812dee9e4f0919b25da1bb4b3c5.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-f094efc0fbd7629bf7546d6c7e115b56548ca2bf.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-9506d5ef36bc5fb7c988722f887e8e1a0f24776c.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-2f07a9e6112c56f1773a6cc5208755773afaa841.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-8bc08a71b5e1608d99c675becb7e8325208686f3.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-d6cdd20d912658a93cee7724b9a27a73c114ff6d.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-7679fe2d3e274f3c1871b5b1569f1d5bc6f6318a.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-e9538197d07b9e3667520f6d96ea307bddffde25.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-2c5dfb15de74a74518df639ffa3a75ac48c85dac.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-fa521d7cd712be88cff10c40a91702355149a42f.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-9c7c670415a1554102a8a92533a271bad6d0517c.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-05ed4fb544f5f7a2a2029434a15307ea219b7a05.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-fb80ed826fe15499fa54f81a43b25cd6045af074.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-8af7cbe8a7d225f539d9144c81049a456e75fc1b.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-6d8b8454e7557b74327585c2ac6f2d5bc4a2efd1.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-0b64cc62e7c83478f993669eb87eae03e6dc4e04.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-af96ec5362f3006eae3c8e9657b611fea8860566.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-209807aeb168a1c2dacd071e3aa454671bf51914.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-3a46fa37b1f863058cdabe64eebea09be381c059.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-ff4076ec2ab2295e334dbbdbc2613addbad4521c.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-67b0d5ce0ebf2e0f7210fb95f099f6d45a747206.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-bfb9fe86e37250802ac6502c1fd730585088a63a.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-4c23353cf63c388323a180b964c4a8ac1ab137da.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-2c5c85b68f945363c81f98a6908d3be5ef28f7ad.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-58e4ffffdf1f2af546bd6a9595eff23d5de8abfa.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-df5f35a9f05611e23c0b5d445a15554b3d5de8a5.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-9b79d244178871c108117a0c4286f76f08e86651.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-f82d3675fb15487f9e5c9114d7998ffce57deb8e.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-baeb2f5e070b07e269d209888895348cc3048560.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-3578dc99b68ba7c59d690218e7ed4c0ac623dd35.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-6e8f5d81e544b713deac5068ae1211df7acf3285.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-ff30f6e4466d8f431a096f6ee9a181b9578fd2b2.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-647dcbc25efc2fd5929853d1ff81dce29bd2c905.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-2378e4aca6bd6c1cf2dedd56e0db7d38880f7513.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-8f22fa12492da0b8e865847c041a36823486c97e.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-92acb71930747a164edc8e001853a4a4470d4409.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-3a23a524a4ba774c920a24fa0f707f0c972a077a.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-3cc2d67d4bfb7d7c33de884ba2ef48896952db1e.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-dcb38c28c66e55c05a651875126b0b9b8eb2b98f.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-d2a0224e5e1fe20a330a509d2a888110b9d1abdb.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-8e5ed3c0cd4ecf4ac21dde60044265a386d01683.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-7cd5eaa94fef3ec6700b377f432951d20be7cc44.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-d8fc5edad8672a5fc4d477999b4ce5a37666c94b.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-a0e1e51f09d2c58bf6b55aa948a12967b7cb0848.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-b48de43fa774629d64d177b764df1204ba4db9fe.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-69acc4ea37e72d0a5635af03c90b555310bbbfb5.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-762b2537385b2894db5d028718c47e22f02d4ea2.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-aa0b8212655ffeb94753018f073744f1d6e276f8.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-dd052dce5761e5b39d1f6820a1496d38a63c1a96.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-465faac4f0cb9db411cfd8d68040307484e7a0db.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-b6e92eb8c8ca6023e668265175109ff9a509caec.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-fae98810c9f3a1173ea4f10f6139f7d448dd65d4.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-32fad29b3063fa426588f76adb579aa3311631ff.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-c41cfcf291b9b6a467b211ab909319096a2229c7.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-1ae61e5758f38ea0112b68bd890e7442d9d166d6.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-acc305da9099403178ec05255cd59544418e4f5d.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-ed6c083d9f0505159b740b7e9c0a34ea0eb22158.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-40163d57b693540f0075426b918967d6082af869.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-f13bdb7605c08de667b4beb669444213d03e2a2a.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-fbd9eb6c56bda6b66b9ccc35c00d983ecc3ef48d.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-c104cdb27b53c533cd7e94051154fc6ee83ea8dc.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-92266be322abfa73312a3a309dd6da053571089d.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-a937430462cc92ce9eeef2d6b06e7f8d60eb6bc0.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-2ad344ad679f4af012d09a470ee6eac2c80155b1.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-d7b4ec51c0a9bc39432a0182bf88033b4c1a682f.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-4246f2b40bd76c14d87ab61c6dcb30f06813d2eb.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-32081771456025a48af9e62e3b3bec5e3e8d8a63.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-8601b1212477a00ce1e68ca159a0597f97786117.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-c761705fd1b8d71e64826ffff4ef24937b889e6e.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-1b262b417b19e0bb148e12db28672cff078675a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Leonardo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-9c4053808f89506d1b9649c58d7dba25f2a8a6db.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-0afc1d874e11c2ccc2ae3df63174d28c9b1d8f63.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-ac1b25ee18d1b280d735430b5554a3c6878560eb.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\4\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-e922c42df47b3e714ad73401dc917287d7e5c9ab.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-b5c63eaf311aaf6acf6eacf81a9154c717d7d764.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="D:\Facultad\Protecto Olho\DONM\app\build\intermediates\pre-dexed\debug\classes-44a2f36381d703a97b7757f7d7fe3aa46bbf656b.jar" />
+    </item>
+    <item
+        jar="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="D:\Facultad\Protecto Olho\Backup Proyecto Android\20160303\DONM\app\build\intermediates\pre-dexed\debug\classes-ef0450821a1c939e2a696ee5060d201826657191.jar" />
+    </item>
+
+</items>
